@@ -46,7 +46,7 @@ export default function Home() {
             className="z-10 hidden md:block"
           >
             <img
-              src="/logo/JBRLogo.png"
+              src="/logo/JBRlogo.png"
               alt="Logga"
               className="object-cover rounded-xl mx-auto"
             />

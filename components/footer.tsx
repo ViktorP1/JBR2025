@@ -72,7 +72,7 @@ export default function Footer() {
               </div>
               <div className="flex items-center gap-2 text-gray-400">
                 <Mail size={16} />
-                <span className="text-gray-400 hover:text-[#26A96C] transition-colors"><a href="mailto:ove1jbr@gmail.com">ove1jbr@gmail.com</a></span>
+                <span className="text-gray-400 hover:text-[#26A96C] transition-colors"><a href="mailto:info@janssonbyggror.se">info@janssonbyggror.se</a></span>
               </div>
               <div className="flex items-center gap-2 text-gray-400">
                 <MapPin size={16} />

@@ -14,10 +14,6 @@ export default function Home() {
       <section className="relative min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 flex items-center overflow-hidden">
         <div
           className="absolute inset-0 opacity-20 bg-cover bg-center"
-          style={{
-            backgroundImage:
-              "url(/placeholder.svg?height=1200&width=1920&query=modern office cleaning workspace)",
-          }}
         ></div>
 
         <div className="relative max-w-6xl mx-auto px-6 py-20 md:py-32 grid md:grid-cols-2 gap-12 items-center">
@@ -50,7 +46,7 @@ export default function Home() {
             className="z-10 hidden md:block"
           >
             <img
-              src="/JBRLogo.png"
+              src="/logo/JBRLogo.png"
               alt="Logga"
               className="object-cover rounded-xl mx-auto"
             />
